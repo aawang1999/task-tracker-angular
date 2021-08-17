@@ -9,8 +9,14 @@
     {
       "text": "Groceries",
       "day": "May 8th at 5:00pm",
-      "reminder": true,
+      "reminder": false,
       "id": 3
+    },
+    {
+      "text": "English Lesson",
+      "day": "Aug 17th at 5:30pm",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
